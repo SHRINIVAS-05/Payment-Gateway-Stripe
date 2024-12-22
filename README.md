@@ -1,4 +1,3 @@
-# Payment-Gateway-Stripe
 
 # Stripe Payment Integration  
 
@@ -38,7 +37,16 @@ This repository demonstrates the integration of Stripe Payment Gateway into a we
 5. Use the Stripe dashboard or webhook integration to track payment status and events.  
 
 ## Installation and Setup  
-1. Clone this repository:  
-   ```bash  
-   git clone <repository-url>  
-   cd <repository-folder>  
+
+### Prerequisites  
+- **Java Version**: JDK 17 or higher  
+- **Dependencies**:  
+  - Lombok  
+  - Stripe  
+  - Thymeleaf  
+
+- **Development Environment**:  
+  - Any IDE like Eclipse, IntelliJ IDEA, or Spring Tool Suite (STS).  
+
+- **Testing Tool**:  
+  - Postman for API testing and validation. 
